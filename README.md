@@ -3,4 +3,5 @@ First!
 
 
 1 April 2018
-It's raining. Heavily.
+It's raining heavily.
+
